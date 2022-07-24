@@ -1,0 +1,12 @@
+﻿  Test.c
+e:\data structure\哈夫曼树\哈夫曼树\test.c(21): warning C4013: “CreateHuffmanTree”未定义；假设外部返回 int
+e:\data structure\哈夫曼树\哈夫曼树\test.c(26): warning C4013: “CreatHuffmanCode”未定义；假设外部返回 int
+e:\data structure\哈夫曼树\哈夫曼树\test.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\哈夫曼树\哈夫曼树\test.c(98): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\哈夫曼树\哈夫曼树\test.c(81): warning C4716: “Select”: 必须返回一个值
+e:\data structure\哈夫曼树\哈夫曼树\test.c(58): warning C4716: “CreatHuffmanCode”: 必须返回一个值
+e:\data structure\哈夫曼树\哈夫曼树\test.c(110): warning C4715: “CreateHuffmanTree”: 不是所有的控件路径都返回值
+  哈夫曼树.vcxproj -> E:\Data Structure\哈夫曼树\Debug\哈夫曼树.exe
+  哈夫曼树.vcxproj -> E:\Data Structure\哈夫曼树\Debug\哈夫曼树.pdb (Partial PDB)

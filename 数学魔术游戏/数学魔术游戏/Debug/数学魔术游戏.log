@@ -1,0 +1,8 @@
+﻿  Test.c
+e:\data structure\数学魔术游戏\数学魔术游戏\test.c(6): warning C4013: “showNum”未定义；假设外部返回 int
+e:\data structure\数学魔术游戏\数学魔术游戏\test.c(7): warning C4013: “RandomNum”未定义；假设外部返回 int
+e:\data structure\数学魔术游戏\数学魔术游戏\test.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\数学魔术游戏\数学魔术游戏\test.c(62): warning C4716: “showNum”: 必须返回一个值
+  数学魔术游戏.vcxproj -> E:\Data Structure\数学魔术游戏\Debug\数学魔术游戏.exe
+  数学魔术游戏.vcxproj -> E:\Data Structure\数学魔术游戏\Debug\数学魔术游戏.pdb (Partial PDB)

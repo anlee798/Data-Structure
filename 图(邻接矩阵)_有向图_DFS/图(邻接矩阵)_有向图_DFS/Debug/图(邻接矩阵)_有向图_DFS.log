@@ -1,0 +1,27 @@
+﻿  Test.c
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(17): warning C4013: “CreateUDN”未定义；假设外部返回 int
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(43): warning C4013: “LocateVex”未定义；假设外部返回 int
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(45): warning C4013: “DFS_AL”未定义；假设外部返回 int
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(66): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接矩阵)_有向图_dfs\图(邻接矩阵)_有向图_dfs\test.c(99): warning C4716: “DFS_AL”: 必须返回一个值
+  图(邻接矩阵)_有向图_DFS.vcxproj -> E:\Data Structure\图(邻接矩阵)_有向图_DFS\Debug\图(邻接矩阵)_有向图_DFS.exe
+  图(邻接矩阵)_有向图_DFS.vcxproj -> E:\Data Structure\图(邻接矩阵)_有向图_DFS\Debug\图(邻接矩阵)_有向图_DFS.pdb (Partial PDB)

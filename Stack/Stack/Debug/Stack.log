@@ -1,0 +1,13 @@
+﻿  Stack_Test.c
+e:\data structure\stack\stack\stack_test.c(15): warning C4013: “InitStack”未定义；假设外部返回 int
+e:\data structure\stack\stack\stack_test.c(16): warning C4013: “Push”未定义；假设外部返回 int
+e:\data structure\stack\stack\stack_test.c(21): warning C4013: “GetTop”未定义；假设外部返回 int
+e:\data structure\stack\stack\stack_test.c(22): warning C4013: “Pop”未定义；假设外部返回 int
+e:\data structure\stack\stack\stack_test.c(37): warning C4013: “DestroyStack”未定义；假设外部返回 int
+e:\data structure\stack\stack\stack_test.c(23): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\data structure\stack\stack\stack_test.c(27): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\data structure\stack\stack\stack_test.c(31): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\data structure\stack\stack\stack_test.c(35): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\data structure\stack\stack\stack_test.c(68): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  Stack.vcxproj -> E:\Data Structure\Stack\Debug\Stack.exe
+  Stack.vcxproj -> E:\Data Structure\Stack\Debug\Stack.pdb (Partial PDB)

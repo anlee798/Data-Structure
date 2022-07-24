@@ -1,0 +1,10 @@
+﻿  Queue_Test.c
+e:\data structure\queue\queue\queue_test.c(15): warning C4013: “InitQueue”未定义；假设外部返回 int
+e:\data structure\queue\queue\queue_test.c(17): warning C4013: “EnQueue”未定义；假设外部返回 int
+e:\data structure\queue\queue\queue_test.c(22): warning C4013: “QueueLength”未定义；假设外部返回 int
+e:\data structure\queue\queue\queue_test.c(27): warning C4013: “GetHead”未定义；假设外部返回 int
+e:\data structure\queue\queue\queue_test.c(31): warning C4013: “DeQueue”未定义；假设外部返回 int
+e:\data structure\queue\queue\queue_test.c(32): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\data structure\queue\queue\queue_test.c(74): warning C4715: “GetHead”: 不是所有的控件路径都返回值
+  Queue.vcxproj -> E:\Data Structure\Queue\Debug\Queue.exe
+  Queue.vcxproj -> E:\Data Structure\Queue\Debug\Queue.pdb (Partial PDB)

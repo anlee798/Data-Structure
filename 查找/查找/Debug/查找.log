@@ -1,0 +1,9 @@
+﻿  Test.c
+e:\data structure\查找\查找\test.c(17): warning C4013: “CreateList”未定义；假设外部返回 int
+e:\data structure\查找\查找\test.c(18): warning C4013: “TraverseList”未定义；假设外部返回 int
+e:\data structure\查找\查找\test.c(19): warning C4013: “Search_Bin”未定义；假设外部返回 int
+e:\data structure\查找\查找\test.c(20): warning C4098: “main”:“void”函数返回值
+e:\data structure\查找\查找\test.c(48): warning C4716: “CreateList”: 必须返回一个值
+e:\data structure\查找\查找\test.c(54): warning C4716: “TraverseList”: 必须返回一个值
+  查找.vcxproj -> E:\Data Structure\查找\Debug\查找.exe
+  查找.vcxproj -> E:\Data Structure\查找\Debug\查找.pdb (Partial PDB)

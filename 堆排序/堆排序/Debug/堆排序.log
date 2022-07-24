@@ -1,0 +1,11 @@
+﻿  Test.c
+e:\data structure\堆排序\堆排序\test.c(13): warning C4013: “CreateList”未定义；假设外部返回 int
+e:\data structure\堆排序\堆排序\test.c(19): warning C4013: “HeapSort”未定义；假设外部返回 int
+e:\data structure\堆排序\堆排序\test.c(26): warning C4013: “CreatHeap”未定义；假设外部返回 int
+e:\data structure\堆排序\堆排序\test.c(31): warning C4013: “HeapAdjust”未定义；假设外部返回 int
+e:\data structure\堆排序\堆排序\test.c(39): warning C4716: “CreatHeap”: 必须返回一个值
+e:\data structure\堆排序\堆排序\test.c(49): warning C4716: “HeapAdjust”: 必须返回一个值
+e:\data structure\堆排序\堆排序\test.c(33): warning C4716: “HeapSort”: 必须返回一个值
+e:\data structure\堆排序\堆排序\test.c(60): warning C4716: “CreateList”: 必须返回一个值
+  堆排序.vcxproj -> E:\Data Structure\堆排序\Debug\堆排序.exe
+  堆排序.vcxproj -> E:\Data Structure\堆排序\Debug\堆排序.pdb (Partial PDB)

@@ -1,0 +1,26 @@
+﻿  Test.c
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(26): warning C4013: “malloc”未定义；假设外部返回 int
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(28): warning C4013: “exit”未定义；假设外部返回 int
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(76): warning C4013: “FirstAdjVex”未定义；假设外部返回 int
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(76): warning C4013: “NextAdjVex”未定义；假设外部返回 int
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(106): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(124): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(125): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(126): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(128): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(142): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\广度优先搜索遍历(邻接矩阵)\广度优先搜索遍历(邻接矩阵)\test.c(84): warning C4716: “BFS”: 必须返回一个值
+  广度优先搜索遍历(邻接矩阵).vcxproj -> E:\Data Structure\广度优先搜索遍历(邻接矩阵)\Debug\广度优先搜索遍历(邻接矩阵).exe
+  广度优先搜索遍历(邻接矩阵).vcxproj -> E:\Data Structure\广度优先搜索遍历(邻接矩阵)\Debug\广度优先搜索遍历(邻接矩阵).pdb (Partial PDB)

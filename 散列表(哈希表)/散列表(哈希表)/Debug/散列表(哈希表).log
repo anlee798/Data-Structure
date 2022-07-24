@@ -1,0 +1,13 @@
+﻿  Test.c
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(19): warning C4013: “Init”未定义；假设外部返回 int
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(21): warning C4013: “insert”未定义；假设外部返回 int
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(23): warning C4013: “display”未定义；假设外部返回 int
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(28): warning C4013: “findNum”未定义；假设外部返回 int
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(59): warning C4716: “insert”: 必须返回一个值
+e:\data structure\散列表(哈希表)\散列表(哈希表)\test.c(69): warning C4716: “display”: 必须返回一个值
+  散列表(哈希表).vcxproj -> E:\Data Structure\散列表(哈希表)\Debug\散列表(哈希表).exe
+  散列表(哈希表).vcxproj -> E:\Data Structure\散列表(哈希表)\Debug\散列表(哈希表).pdb (Partial PDB)

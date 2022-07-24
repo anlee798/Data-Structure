@@ -1,0 +1,28 @@
+﻿  Test.c
+e:\data structure\火车车厢重排\火车车厢重排\test.c(22): warning C4013: “InitStack”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(26): warning C4013: “DataEnter”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(27): warning C4013: “Rearrangement”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\火车车厢重排\火车车厢重排\test.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\火车车厢重排\火车车厢重排\test.c(43): warning C4013: “OutRail”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(46): warning C4013: “EnterRail”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(39): warning C4101: “e”: 未引用的局部变量
+e:\data structure\火车车厢重排\火车车厢重排\test.c(53): warning C4013: “GetTop”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(56): warning C4013: “Pop”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(57): warning C4013: “RailMassage”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(77): warning C4013: “IsEmpty”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(78): warning C4013: “Push”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(133): warning C4013: “TraverseRail”未定义；假设外部返回 int
+e:\data structure\火车车厢重排\火车车厢重排\test.c(146): warning C4047: “函数”:“int *”与“int **”的间接级别不同
+e:\data structure\火车车厢重排\火车车厢重排\test.c(146): warning C4024: “Pop”: 形参和实参 2 的类型不同
+e:\data structure\火车车厢重排\火车车厢重排\test.c(36): warning C4716: “DataEnter”: 必须返回一个值
+e:\data structure\火车车厢重排\火车车厢重排\test.c(48): warning C4716: “Rearrangement”: 必须返回一个值
+e:\data structure\火车车厢重排\火车车厢重排\test.c(95): warning C4716: “EnterRail”: 必须返回一个值
+e:\data structure\火车车厢重排\火车车厢重排\test.c(75): warning C4716: “OutRail”: 必须返回一个值
+e:\data structure\火车车厢重排\火车车厢重排\test.c(123): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+e:\data structure\火车车厢重排\火车车厢重排\test.c(136): warning C4716: “RailMassage”: 必须返回一个值
+e:\data structure\火车车厢重排\火车车厢重排\test.c(150): warning C4716: “TraverseRail”: 必须返回一个值
+  火车车厢重排.vcxproj -> E:\Data Structure\火车车厢重排\Debug\火车车厢重排.exe
+  火车车厢重排.vcxproj -> E:\Data Structure\火车车厢重排\Debug\火车车厢重排.pdb (Partial PDB)

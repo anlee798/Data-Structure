@@ -1,0 +1,12 @@
+﻿  Test.c
+e:\data structure\排序\排序\test.c(13): warning C4013: “CreateList”未定义；假设外部返回 int
+e:\data structure\排序\排序\test.c(18): warning C4013: “ShellSort”未定义；假设外部返回 int
+e:\data structure\排序\排序\test.c(103): warning C4013: “ShellInsert”未定义；假设外部返回 int
+e:\data structure\排序\排序\test.c(44): warning C4716: “BInsertSort”: 必须返回一个值
+e:\data structure\排序\排序\test.c(59): warning C4716: “InsertSort”: 必须返回一个值
+e:\data structure\排序\排序\test.c(70): warning C4716: “CreateList”: 必须返回一个值
+e:\data structure\排序\排序\test.c(98): warning C4716: “QuickSort”: 必须返回一个值
+e:\data structure\排序\排序\test.c(105): warning C4716: “ShellSort”: 必须返回一个值
+e:\data structure\排序\排序\test.c(117): warning C4716: “ShellInsert”: 必须返回一个值
+  排序.vcxproj -> E:\Data Structure\排序\Debug\排序.exe
+  排序.vcxproj -> E:\Data Structure\排序\Debug\排序.pdb (Partial PDB)

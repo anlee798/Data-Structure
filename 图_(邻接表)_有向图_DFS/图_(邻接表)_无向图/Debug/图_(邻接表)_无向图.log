@@ -1,0 +1,27 @@
+﻿  Test.c
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(29): warning C4013: “CreateUDG”未定义；假设外部返回 int
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(51): warning C4013: “LocateVex”未定义；假设外部返回 int
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(53): warning C4013: “DFS_AL”未定义；假设外部返回 int
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图_(邻接表)_无向图\图_(邻接表)_无向图\test.c(107): warning C4716: “DFS_AL”: 必须返回一个值
+  图_(邻接表)_无向图.vcxproj -> E:\Data Structure\图_(邻接表)_无向图\Debug\图_(邻接表)_无向图.exe
+  图_(邻接表)_无向图.vcxproj -> E:\Data Structure\图_(邻接表)_无向图\Debug\图_(邻接表)_无向图.pdb (Partial PDB)

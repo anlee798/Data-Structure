@@ -1,0 +1,16 @@
+﻿  Test.c
+e:\data structure\二叉排序树\二叉排序树\test.c(13): warning C4013: “InitBiTree”未定义；假设外部返回 int
+e:\data structure\二叉排序树\二叉排序树\test.c(23): warning C4013: “creatBiTree”未定义；假设外部返回 int
+e:\data structure\二叉排序树\二叉排序树\test.c(26): warning C4013: “InOrderTraverse”未定义；假设外部返回 int
+e:\data structure\二叉排序树\二叉排序树\test.c(31): warning C4013: “DeleteBST”未定义；假设外部返回 int
+e:\data structure\二叉排序树\二叉排序树\test.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\二叉排序树\二叉排序树\test.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\二叉排序树\二叉排序树\test.c(82): warning C4047: “=”:“BiTree *”与“BiTree”的间接级别不同
+e:\data structure\二叉排序树\二叉排序树\test.c(96): warning C4047: “初始化”:“BiTree”与“BiTree *”的间接级别不同
+e:\data structure\二叉排序树\二叉排序树\test.c(108): warning C4715: “creatBiTree”: 不是所有的控件路径都返回值
+e:\data structure\二叉排序树\二叉排序树\test.c(116): warning C4716: “destroyBiTree”: 必须返回一个值
+e:\data structure\二叉排序树\二叉排序树\test.c(124): warning C4716: “InOrderTraverse”: 必须返回一个值
+  二叉排序树.vcxproj -> E:\Data Structure\二叉排序树\Debug\二叉排序树.exe
+  二叉排序树.vcxproj -> E:\Data Structure\二叉排序树\Debug\二叉排序树.pdb (Partial PDB)

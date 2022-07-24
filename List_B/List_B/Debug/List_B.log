@@ -1,0 +1,42 @@
+﻿  List_B.c
+e:\data structure\list_b\list_b\list_b.c(17): warning C4013: “UI”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(24): warning C4013: “InitList”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(25): warning C4013: “CreatList”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(26): warning C4013: “TraverseList”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(27): warning C4013: “LocateElem”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(28): warning C4013: “ListInsert”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(29): warning C4013: “ListDelete”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(30): warning C4013: “DestroyList”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(32): warning C4013: “ListLength”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(33): warning C4013: “DeleteRepeat”未定义；假设外部返回 int
+e:\data structure\list_b\list_b\list_b.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(41): warning C4047: “=”:“LinkList *”与“LinkList”的间接级别不同
+e:\data structure\list_b\list_b\list_b.c(40): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LinkList *”
+e:\data structure\list_b\list_b\list_b.c(158): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(162): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(163): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(530): note: 参见“strdup”的声明
+e:\data structure\list_b\list_b\list_b.c(234): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(238): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(244): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(271): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(275): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(281): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\list_b\list_b\list_b.c(70): warning C4716: “DeleteRepeat”: 必须返回一个值
+e:\data structure\list_b\list_b\list_b.c(147): warning C4716: “CreatList”: 必须返回一个值
+e:\data structure\list_b\list_b\list_b.c(206): warning C4716: “ListLength”: 必须返回一个值
+e:\data structure\list_b\list_b\list_b.c(225): warning C4715: “TraverseList”: 不是所有的控件路径都返回值
+e:\data structure\list_b\list_b\list_b.c(327): warning C4716: “UI”: 必须返回一个值
+  List_B.vcxproj -> E:\Data Structure\List_B\Debug\List_B.exe
+  List_B.vcxproj -> E:\Data Structure\List_B\Debug\List_B.pdb (Partial PDB)

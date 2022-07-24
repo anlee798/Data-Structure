@@ -1,0 +1,28 @@
+﻿F:\Visual Studio 2017 Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(图(邻接表)_有向图_DFS.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Test.c
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(29): warning C4013: “CreateUDG”未定义；假设外部返回 int
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(51): warning C4013: “LocateVex”未定义；假设外部返回 int
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(53): warning C4013: “DFS_AL”未定义；假设外部返回 int
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+e:\data structure\图(邻接表)_无向图_dfs\图(邻接表)_有向图_dfs\test.c(107): warning C4716: “DFS_AL”: 必须返回一个值
+  图(邻接表)_有向图_DFS.vcxproj -> E:\Data Structure\图(邻接表)_无向图_DFS\Debug\图(邻接表)_无向图_DFS.exe
+  图(邻接表)_有向图_DFS.vcxproj -> E:\Data Structure\图(邻接表)_无向图_DFS\Debug\图(邻接表)_无向图_DFS.pdb (Partial PDB)
